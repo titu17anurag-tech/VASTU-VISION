@@ -1,0 +1,6 @@
+{
+  "name": "VastuVision - AI Floor Plan & Home Energy Vastu Analyzer",
+  "description": "Upload any architectural floor plan to instantly check Vastu Shastra compliance, 9-zone energy flow, element balances, doshas, and actionable non-structural remedies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
